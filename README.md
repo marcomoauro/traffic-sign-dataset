@@ -1,7 +1,7 @@
 # Traffic Sign Dataset
 Dataset with Italian Traffic Signs, helpful for YOLO
 
-This dataset was created by four students of University of Roma 3 for a project of 
+This dataset was created by four students of University of Roma 3 for a project on 
 Machine Learning and Sistemi Intelligenti per Internet.\
 Images were collected from Google Maps and they were labelize with https://github.com/tzutalin/labelImg in a format helpful
 for training a YOLO neural network.
