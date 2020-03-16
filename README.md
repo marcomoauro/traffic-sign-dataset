@@ -14,6 +14,4 @@ You can launch the script with:
 python TrainTestFiles.py
 ```
 \
-You can add more images at the dataset, at the end you must modify the key `txts_size` in TrainTestFiles.json.
-
 If you use the dataset please to add a star at the project :)
