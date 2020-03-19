@@ -26,10 +26,11 @@ def files(config):
 		if ext == 'jpg':
 			continue
 		count += 1
+		jpg_filename = "{0}.jpg".format(number)
 		if count <= train_files_size:
-			train_files.append(file)
+			train_files.append(jpg_filename)
 		else:
-			test_files.append(file)
+			test_files.append(jpg_filename)
 	write_file(train_files, 'train.txt')
 	write_file(test_files, 'test.txt')
 
