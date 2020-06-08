@@ -1,0 +1,5 @@
+classes= 87
+train  = ~/traffic-sign-dataset/data/train.txt  
+test  = ~/traffic-sign-dataset/data/test.txt  
+names = ~/traffic-sign-dataset/darknet-cfg/traffic-sign.names  
+backup = backup
